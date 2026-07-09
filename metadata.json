@@ -1,0 +1,6 @@
+{
+  "name": "Trade Piles",
+  "description": "Deriv-like high-performance trading platform with real-time charts, technical indicators, social sentiment analysis, live chat, secure payment gateways, and two-factor authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
